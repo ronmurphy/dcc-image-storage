@@ -1,2 +1,2 @@
 # dcc-image-storage
-image storage for tesing
+image storage for testing
